@@ -1,1 +1,1 @@
-# Entrega_ejercicios_POO_Salas_Judith
+# Entrega de ejercicios
