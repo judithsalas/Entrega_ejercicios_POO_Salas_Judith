@@ -41,3 +41,4 @@ for i in range(1, 6):
 # Verificación del archivo de registro (log.txt)
 with open("log.txt", "r") as file:
     print(file.read())
+
